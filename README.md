@@ -6,11 +6,19 @@
 
 1. Клонирование репозитория 
 
-```git clone https://github.com/AlexsandrZolotarev/TeskTask.git```
+```git clone https://github.com/AlexsandrZolotarev/TestTask.git```
 
-2. Запуск
+2. Переход в директорию TestTask
+
+```cd TestTask```
+
+3. Запуск
 
 ```npx webpack serve```
+
+3. Локальный сервер открыт 
+
+```http://localhost:3000```
 
 ## Описание коммитов
 
